@@ -135,4 +135,7 @@ print(li)
 print()
 e = [i*j for i in range(2, 10) for j in range(1, 10)]
 print('e = {0}'.format(e))
+
+# 리스트에 map() 사용하기
+# map은 리스트의 요소를 지정된 함수로 처리해준다.
     
